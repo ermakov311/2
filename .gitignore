@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Env files (do not commit secrets)
+.env*
+!.env.example
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+node_modules
